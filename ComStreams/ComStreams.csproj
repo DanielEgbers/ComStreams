@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net35;net20</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <DebugType>Full</DebugType>
+    <Version>1.0</Version>
+    <Authors>Daniel Egbers</Authors>
+    <Description>Simple IStream implementations</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
